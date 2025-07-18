@@ -1,2 +1,2 @@
 # RISC-V-PROCESSOR
-Contains a risc-v processor designed using verilog with waveforms for verification. Moreover ther is a seperate IEEE 754 standard floating-point arithmetic unit designed in SystemVerilog and verified through Assertion. 
+Contains a risc-v processor designed using verilog with waveforms for verification. Moreover a report is submitted with all the necessary documentation and a rom_bytes.data file with a mini programs binary encoding.
